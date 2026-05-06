@@ -38,4 +38,4 @@ To ensure reliability and security within Megaworld’s infrastructure, we follo
 Our success is not measured by the number of features we ship, but by the **hours we save.** By automating complex workflows, we allow the Commercial Division to focus on high-level decision-making while our code handles the routine processing.
 
 **Data Processing Oversight Unit**  
-*Internal Engineering | Megaworld Corporation*
+*DPOU Developers | Megaworld Corporation | Commercial Division*
